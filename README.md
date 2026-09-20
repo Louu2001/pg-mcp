@@ -686,5 +686,3 @@ ALTER DEFAULT PRIVILEGES IN SCHEMA public
 - 基于 [FastMCP](https://github.com/jlowin/fastmcp) 构建
 - SQL 解析由 [sqlglot](https://github.com/tobymao/sqlglot) 提供
 - 数据库驱动：[asyncpg](https://github.com/MagicStack/asyncpg)
-#   p g - m c p  
- 
